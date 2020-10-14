@@ -1,0 +1,14 @@
+KEYPAD7SEGAPP.o KEYPAD7SEGAPP.o: ../KEYPAD7SEGAPP.c ../STD_TYPES.h \
+  ../DIO_int.h ../SEVENSEGH.h ../KEYPADH.h ../CLOCK.h ../KEYPAD7SEGAPP.h
+
+../STD_TYPES.h:
+
+../DIO_int.h:
+
+../SEVENSEGH.h:
+
+../KEYPADH.h:
+
+../CLOCK.h:
+
+../KEYPAD7SEGAPP.h:
